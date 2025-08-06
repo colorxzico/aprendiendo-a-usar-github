@@ -1,0 +1,3 @@
+<h1>Aprendiendo a usar GitHub</h1>
+
+- Estado del proyecto: aprendiendo...
